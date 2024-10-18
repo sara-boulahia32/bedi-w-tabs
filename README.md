@@ -1,44 +1,32 @@
+# Beldi's - Brief 2
+# Objectifs du projet
+L'objectif principal est de développer un site web multi-pages pour un restaurant, incluant des informations détaillées sur les menus, et un formulaire de contact.
 
-# README pour le projet de mise à jour du site web de la chaîne de restaurants "Beldi" + tabs
-#  Contexte du Projet
-accéder au site : [https://sara-boulahia32.github.io/beldi2/](https://sara-boulahia32.github.io/bedi-w-tabs/)
+# Présentation du projet
+La Présentation
 
-# 🚀 Objectifs
-Créer des maquettes pour les pages principales :
-Page d'accueil
-Page Menu
-Page À Propos
-Page Contact
-Intégrer ces maquettes en HTML et CSS, en respectant les normes du web.
-# 🛠️ Technologies Utilisées
-HTML5
-CSS3
+# Planification des tàches
+Voir la planification
+
+# Maquette
+
+# Accéder au site
+Visiter le site [https://sara-boulahia32.github.io/beldi2/](https://sara-boulahia32.github.io/bedi-w-tabs/)
+
+# Pages à développer :
+Accueil : Présentation générale du restaurant et de son ambiance.
+Menu    : Présentation inspirante des plats marrocains traditionnels disponibles.
+Contact : Formulaire permettant aux utilisateurs de poser des questions ou de faire des suggestions.
+# Directives spécifiques :
+Créer des maquettes conformes aux styles fournis en Figma.
+Intégrer chaque page en HTML et CSS, en respectant les normes du web.
+Assurer la responsivité du site pour différents appareils.
+Technologies utilisées
+Figma
+HTML
+CSS (Natif)
+Jira
 Git
-Agilité (Scrum, Kanban)
-UX/UI Design
-Validateur W3C pour garantir la conformité du code.
-# 🎨 User Stories
-En tant que concepteur, j'analyse la maquette de la page d'accueil fournie en Figma.
-Je crée une maquette pour la page "Menu" présentant les plats de manière attrayante.
-Je conçois la page "À Propos" pour raconter l'histoire et la vision de Beldi.
-Je développe la page "Contact" avec un formulaire interactif.
-Je transforme la maquette de la page d'accueil en site web fonctionnel.
-Je m'assure que le code respecte les normes W3C via le validateur.
-# 📅 Planning
-Jour 1-2 : Analyse des maquettes et création du design final.
-Jour 3-4 : Intégration des maquettes en HTML et CSS.
-Jour 5 : Finalisation et hébergement sur GitHub Pages.
-# 📦 Livrables
-Jour 2 :
-Fichier de design final (Figma/Adobe XD) avec interactions.
-Jour 5 :
-Lien vers le site web hébergé sur GitHub Pages.
-Lien vers le repository GitHub :
-Code source en HTML/CSS.
-Fichier de design final (compressé).
-Planification des tâches.
+GitHub Pages (pour l'hébergement)
+W3C pour garantir la conformité du code.
 
-# 💡 Conclusion
-Ce projet est une belle opportunité d'allier créativité et technique tout en mettant en valeur l'essence de Beldi. Je suis impatient de voir le résultat final et de recevoir vos retours !
-
-Pour toute question ou suggestion, n'hésitez pas à me contacter. Merci pour votre attention et votre soutien ! 🍽️✨
